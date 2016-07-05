@@ -14,6 +14,7 @@
 		E8CCCE981CD88ED9002C7F0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8CCCE971CD88ED9002C7F0E /* Assets.xcassets */; };
 		E8CCCE9B1CD88ED9002C7F0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8CCCE991CD88ED9002C7F0E /* LaunchScreen.storyboard */; };
 		E8CCCEA41CD88F83002C7F0E /* BallView.m in Sources */ = {isa = PBXBuildFile; fileRef = E8CCCEA31CD88F83002C7F0E /* BallView.m */; };
+		E8DA4E861D2B8D9F006DDFB2 /* ttt.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DA4E851D2B8D9F006DDFB2 /* ttt.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		E8CCCE9C1CD88ED9002C7F0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E8CCCEA21CD88F83002C7F0E /* BallView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BallView.h; sourceTree = "<group>"; };
 		E8CCCEA31CD88F83002C7F0E /* BallView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BallView.m; sourceTree = "<group>"; };
+		E8DA4E841D2B8D9F006DDFB2 /* ttt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ttt.h; sourceTree = "<group>"; };
+		E8DA4E851D2B8D9F006DDFB2 /* ttt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ttt.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				E8CCCE921CD88ED9002C7F0E /* ViewController.m */,
 				E8CCCEA21CD88F83002C7F0E /* BallView.h */,
 				E8CCCEA31CD88F83002C7F0E /* BallView.m */,
+				E8DA4E841D2B8D9F006DDFB2 /* ttt.h */,
+				E8DA4E851D2B8D9F006DDFB2 /* ttt.m */,
 				E8CCCE941CD88ED9002C7F0E /* Main.storyboard */,
 				E8CCCE971CD88ED9002C7F0E /* Assets.xcassets */,
 				E8CCCE991CD88ED9002C7F0E /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 			files = (
 				E8CCCE931CD88ED9002C7F0E /* ViewController.m in Sources */,
 				E8CCCE901CD88ED9002C7F0E /* AppDelegate.m in Sources */,
+				E8DA4E861D2B8D9F006DDFB2 /* ttt.m in Sources */,
 				E8CCCE8D1CD88ED9002C7F0E /* main.m in Sources */,
 				E8CCCEA41CD88F83002C7F0E /* BallView.m in Sources */,
 			);
